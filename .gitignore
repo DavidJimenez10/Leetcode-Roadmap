@@ -1,0 +1,12 @@
+# Ignore one specific file: Provide the full path to the file, seen from the root folder of your project.
+# path/to/file.ext
+
+# Ignore all files with a certain name (anywhere in the project): Just write down the file's name, without giving a path.
+# filename.ext
+
+# Ignore all files of a certain type (anywhere in the project):
+# *.ext
+
+# Ignore all files in a certain folder:
+# path/to/folder/*
+
