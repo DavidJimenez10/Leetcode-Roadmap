@@ -11,3 +11,4 @@
 # path/to/folder/*
 
 .vscode
+.venv
